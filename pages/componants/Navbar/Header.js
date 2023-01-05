@@ -21,7 +21,7 @@ const Header = () => {
         <Container>
           <Link href="/">
             <Image
-              src="/image/logo-removebg-preview.png"
+              src="/image/logo-removebg-preview.webp"
               width={190}
               height={40}
               alt="OSCENOX"

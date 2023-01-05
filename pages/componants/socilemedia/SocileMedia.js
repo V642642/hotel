@@ -21,7 +21,7 @@ const SocileMedia = () => {
                         <div className={Styles.socile_gallery}>
                             <div className={Styles.images_img}>
                                 <div className={Styles.insta_img_1}>
-                                    <Image src="/image/logo-removebg-preview.png" width={100} height={100} className={Styles.soci_img} />
+                                    <Image src="/image/logo-removebg-preview.webp" width={100} height={100} className={Styles.soci_img} />
                                 </div>
                             </div>
                             <div className={Styles.caption_one}>
