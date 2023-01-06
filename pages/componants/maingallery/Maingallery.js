@@ -21,7 +21,7 @@ const Maingallery = () => {
         <Image src="/image/home_dj_4.jpg" width={0} height={0} className={Styles.line_img_line} />
       </div>
       <div className={`${Styles.mian_galler_img_line} `}>
-      <Image src="/image/rafting.jpg" width={0} height={0} className={Styles.line_img_line} />
+      <Image src="/image/rafting.webp" width={0} height={0} className={Styles.line_img_line} />
       </div>
       <div className={`${Styles.mian_galler_img_line} `}>
       <Image src="/image/restaurent_oscenox.jpeg" width={0} height={0} className={Styles.line_img_line} />

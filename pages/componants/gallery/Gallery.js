@@ -86,7 +86,7 @@ const Gallery = () => {
                         <div className={styles.secont_bottom_left_bottom}>
                           <div className={styles.first_box}>
                             <Image
-                              src="/image/rafting.jpg"
+                              src="/image/rafting.webp"
                               width={0}
                               height={0}
                               className={styles.first_box_img}
@@ -97,7 +97,7 @@ const Gallery = () => {
                           </div>
                           <div className={styles.second_box}>
                             <Image
-                              src="/image/bike-rent.jpeg"
+                              src="/image/bike-rent.webp"
                               width={0}
                               height={0}
                               className={styles.second_box_img}
@@ -111,7 +111,7 @@ const Gallery = () => {
                       <div className={styles.second_right_bottom}>
                         <div className={styles.second_right_bottom_top}>
                           <Image
-                            src="/image/dj_oscenox_night.jpg"
+                            src="/image/dj_oscenox_night.webp"
                             width={0}
                             height={0}
                             className={styles.second_right_bottom_top_img}
@@ -198,7 +198,7 @@ const Gallery = () => {
                           }
                         >
                           <Image
-                            src="/image/bike-rent.jpeg"
+                            src="/image/bike-rent.webp"
                             width={0}
                             height={0}
                             className={

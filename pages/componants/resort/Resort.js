@@ -80,7 +80,7 @@ const Resort = () => {
 
         <div className={Styles.resort_container}>
           <div className={Styles.resort_img_7}>
-          <Image src="/image/rafting.jpg" width={100} height={100} className={Styles.explore} />
+          <Image src="/image/rafting.webp" width={100} height={100} className={Styles.explore} />
           </div>
           <div
             className={`${Styles.resort_overlay} ${Styles.resort_overlayleft}`}

@@ -58,7 +58,7 @@
     height: 100%;
 }
 .dj_img{
-    background-image: url(../public/image/dj_oscenox_night.jpg);
+    background-image: url(../public/image/dj_oscenox_night.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

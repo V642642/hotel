@@ -57,7 +57,7 @@ const CarouselSlider = () => {
               <div className={styles.forDesktop}>
                 <div className={styles.first_slider}>
                   <Image
-                    src="/image/rooms_one.png"
+                    src="/image/rooms_one.webp"
                     width={0}
                     height={0}
                     className={styles.first_slider_img}
@@ -93,7 +93,7 @@ const CarouselSlider = () => {
               <div className={styles.forDesktop}>
                 <div className={styles.second_slider}>
                   <Image
-                    src="/image/IMG-20221215-WA0002.jpg"
+                    src="/image/IMG-20221215-WA0002.webp"
                     width={0}
                     height={0}
                     className={styles.second_slider_img}
@@ -271,7 +271,7 @@ const CarouselSlider = () => {
           <div className={styles.formobile}>
             <div className={styles.first_slider}>
             <Image
-                    src="/image/rooms_one.png"
+                    src="/image/rooms_one.webp"
                     width={0}
                     height={0}
                     className={styles.first_slider_img}
@@ -301,7 +301,7 @@ const CarouselSlider = () => {
             </div>
             <div className={styles.second_slider}>
             <Image
-                    src="/image/IMG-20221215-WA0002.jpg"
+                    src="/image/IMG-20221215-WA0002.webp"
                     width={0}
                     height={0}
                     className={styles.second_slider_img}
