@@ -36,7 +36,7 @@
 .bunk_mian_galler_img_side{
     width: 100%;
     height: 100%;
-    background-image: url(../public/image/bunkStay.jpg);
+    background-image: url(../public/image/bunkStay.webp);
     object-fit: cover;
     background-size: cover;
     background-position: center;
@@ -44,7 +44,7 @@
     border-radius: 10px;
 }
 .bunk_mian_galler_img_side:nth-child(2){
-    background-image: url(../public/image/bunkstay2.jpg);
+    background-image: url(../public/image/bunkstay2.webp);
 }
 .line_img{
     display: flex;
@@ -64,7 +64,7 @@
     border-radius: 10px;
 }
 .bunk_mian_galler_img_line:nth-child(2){
-    background-image: url(../public/image/bunkstay5.jpg);
+    background-image: url(../public/image/bunkstay5.webp);
 }
 .bunk_mian_galler_img_line:nth-child(3){
     background-image: url(../public/image/home_3-min.jpg);

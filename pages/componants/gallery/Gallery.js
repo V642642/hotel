@@ -70,7 +70,7 @@ const Gallery = () => {
                       <div className={styles.second_grid_bottom_left}>
                         <div className={styles.second_grid_bottom_left_top}>
                           <Image
-                            src="/image/bunkStay.jpg"
+                            src="/image/bunkStay.webp"
                             width={0}
                             height={0}
                             className={styles.second_grid_bottom_left_top_img}

@@ -129,7 +129,7 @@ const CarouselSlider = () => {
               <div className={styles.forDesktop}>
                 <div className={styles.third_slider}>
                   <Image
-                    src="/image/bunkStay.jpg"
+                    src="/image/bunkStay.webp"
                     width={0}
                     height={0}
                     className={styles.third_slider_img}
@@ -331,7 +331,7 @@ const CarouselSlider = () => {
             </div>
             <div className={styles.third_slider}>
             <Image
-                    src="/image/bunkStay.jpg"
+                    src="/image/bunkStay.webp"
                     width={0}
                     height={0}
                     className={styles.third_slider_img}
