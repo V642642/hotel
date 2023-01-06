@@ -52,7 +52,7 @@ const Gallery = () => {
                   <div className={styles.second_grid}>
                     <div className={styles.second_grid_top}>
                       <Image
-                        src="/image/little-ams-min.jpg"
+                        src="/image/little-ams-min.webp"
                         width={0}
                         height={0}
                         className={styles.second_grid_top_img}

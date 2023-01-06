@@ -1,0 +1,14 @@
+{
+  "_app.js -> ./componants/CallNow/callnow": {
+    "id": "_app.js -> ./componants/CallNow/callnow",
+    "files": [
+      "static/chunks/pages_componants_CallNow_callnow_js.js"
+    ]
+  },
+  "_app.js -> ./componants/footer/Footer": {
+    "id": "_app.js -> ./componants/footer/Footer",
+    "files": [
+      "static/chunks/pages_componants_footer_Footer_js.js"
+    ]
+  }
+}
